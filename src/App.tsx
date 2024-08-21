@@ -38,8 +38,7 @@ import ListGroup from "./components/ListGroup";
 
 function App(){
   return <div>
-        <h1>hi</h1>
-        <Message />
+        {/* <Message /> */}
         <ListGroup/>
       </div>
       ;
